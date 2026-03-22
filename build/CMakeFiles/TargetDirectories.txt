@@ -1,0 +1,9 @@
+/home/undersirable/botfunpay/build/CMakeFiles/botfunpay.dir
+/home/undersirable/botfunpay/build/CMakeFiles/edit_cache.dir
+/home/undersirable/botfunpay/build/CMakeFiles/rebuild_cache.dir
+/home/undersirable/botfunpay/build/CMakeFiles/list_install_components.dir
+/home/undersirable/botfunpay/build/CMakeFiles/install.dir
+/home/undersirable/botfunpay/build/CMakeFiles/install/local.dir
+/home/undersirable/botfunpay/build/CMakeFiles/install/strip.dir
+/home/undersirable/botfunpay/build/CMakeFiles/botfunpay_autogen_timestamp_deps.dir
+/home/undersirable/botfunpay/build/CMakeFiles/botfunpay_autogen.dir
