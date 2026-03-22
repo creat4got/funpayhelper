@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "/home/undersirable/botfunpay/cmake-build-debug/botfunpay_autogen",
+	"CMAKE_BINARY_DIR" : "/home/undersirable/botfunpay/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/undersirable/botfunpay/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/undersirable/botfunpay",
+	"CMAKE_SOURCE_DIR" : "/home/undersirable/botfunpay",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/undersirable/botfunpay/cmake-build-debug/botfunpay_autogen/include",
+	"INPUTS" : [ "/home/undersirable/botfunpay/funpay.jpg" ],
+	"LOCK_FILE" : "/home/undersirable/botfunpay/cmake-build-debug/CMakeFiles/botfunpay_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/home/undersirable/Qt/6.10.2/gcc_64/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/undersirable/botfunpay/cmake-build-debug/CMakeFiles/botfunpay_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/undersirable/botfunpay/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
