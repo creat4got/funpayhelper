@@ -1,0 +1,61 @@
+# Build directories
+build/
+cmake-build-*/
+out/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+
+# Qt generated files
+*.moc
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+.qmake.stash
+*.qm
+*.pro.user
+*.pro.user.*
+
+# Compiled binaries
+botfunpay
+*.o
+*.a
+*.so
+*.so.*
+*.out
+*.app
+
+# Debug files left by the app
+runner_poll_response.txt
+runner_send_response.txt
+runner_send_called.txt
+runner_form_body.txt
+runner_send_error.txt
+chat_info_debug.txt
+funpay_page.html
+
+# Cookie files — never commit credentials!
+*.json
+!package.json
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.clangd/
+.cache/
+compile_commands.json
+
+# OS
+.DS_Store
+Thumbs.db
