@@ -1,0 +1,9 @@
+/home/undersirable/botfunpay/build/Desktop_Qt_6_10_2-Debug/CMakeFiles/botfunpay.dir
+/home/undersirable/botfunpay/build/Desktop_Qt_6_10_2-Debug/CMakeFiles/edit_cache.dir
+/home/undersirable/botfunpay/build/Desktop_Qt_6_10_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/undersirable/botfunpay/build/Desktop_Qt_6_10_2-Debug/CMakeFiles/list_install_components.dir
+/home/undersirable/botfunpay/build/Desktop_Qt_6_10_2-Debug/CMakeFiles/install.dir
+/home/undersirable/botfunpay/build/Desktop_Qt_6_10_2-Debug/CMakeFiles/install/local.dir
+/home/undersirable/botfunpay/build/Desktop_Qt_6_10_2-Debug/CMakeFiles/install/strip.dir
+/home/undersirable/botfunpay/build/Desktop_Qt_6_10_2-Debug/CMakeFiles/botfunpay_autogen_timestamp_deps.dir
+/home/undersirable/botfunpay/build/Desktop_Qt_6_10_2-Debug/CMakeFiles/botfunpay_autogen.dir
