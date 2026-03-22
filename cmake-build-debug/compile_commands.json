@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/home/undersirable/botfunpay/cmake-build-debug",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/undersirable/botfunpay/cmake-build-debug/botfunpay_autogen/include -I/home/undersirable/Загрузки/boost_1_90_0 -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtCore -isystem /home/undersirable/Qt/6.10.2/gcc_64/include -isystem /home/undersirable/Qt/6.10.2/gcc_64/mkspecs/linux-g++ -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtWidgets -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtGui -g -std=gnu++17 -fdiagnostics-color=always -fPIC -o CMakeFiles/botfunpay.dir/botfunpay_autogen/mocs_compilation.cpp.o -c /home/undersirable/botfunpay/cmake-build-debug/botfunpay_autogen/mocs_compilation.cpp",
+  "file": "/home/undersirable/botfunpay/cmake-build-debug/botfunpay_autogen/mocs_compilation.cpp",
+  "output": "/home/undersirable/botfunpay/cmake-build-debug/CMakeFiles/botfunpay.dir/botfunpay_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/undersirable/botfunpay/cmake-build-debug",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/undersirable/botfunpay/cmake-build-debug/botfunpay_autogen/include -I/home/undersirable/Загрузки/boost_1_90_0 -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtCore -isystem /home/undersirable/Qt/6.10.2/gcc_64/include -isystem /home/undersirable/Qt/6.10.2/gcc_64/mkspecs/linux-g++ -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtWidgets -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtGui -g -std=gnu++17 -fdiagnostics-color=always -fPIC -o CMakeFiles/botfunpay.dir/main.cpp.o -c /home/undersirable/botfunpay/main.cpp",
+  "file": "/home/undersirable/botfunpay/main.cpp",
+  "output": "/home/undersirable/botfunpay/cmake-build-debug/CMakeFiles/botfunpay.dir/main.cpp.o"
+},
+{
+  "directory": "/home/undersirable/botfunpay/cmake-build-debug",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/undersirable/botfunpay/cmake-build-debug/botfunpay_autogen/include -I/home/undersirable/Загрузки/boost_1_90_0 -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtCore -isystem /home/undersirable/Qt/6.10.2/gcc_64/include -isystem /home/undersirable/Qt/6.10.2/gcc_64/mkspecs/linux-g++ -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtWidgets -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtGui -g -std=gnu++17 -fdiagnostics-color=always -fPIC -o CMakeFiles/botfunpay.dir/mainwindow.cpp.o -c /home/undersirable/botfunpay/mainwindow.cpp",
+  "file": "/home/undersirable/botfunpay/mainwindow.cpp",
+  "output": "/home/undersirable/botfunpay/cmake-build-debug/CMakeFiles/botfunpay.dir/mainwindow.cpp.o"
+},
+{
+  "directory": "/home/undersirable/botfunpay/cmake-build-debug",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/undersirable/botfunpay/cmake-build-debug/botfunpay_autogen/include -I/home/undersirable/Загрузки/boost_1_90_0 -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtCore -isystem /home/undersirable/Qt/6.10.2/gcc_64/include -isystem /home/undersirable/Qt/6.10.2/gcc_64/mkspecs/linux-g++ -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtWidgets -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtGui -g -std=gnu++17 -fdiagnostics-color=always -fPIC -o CMakeFiles/botfunpay.dir/dashboardwindow.cpp.o -c /home/undersirable/botfunpay/dashboardwindow.cpp",
+  "file": "/home/undersirable/botfunpay/dashboardwindow.cpp",
+  "output": "/home/undersirable/botfunpay/cmake-build-debug/CMakeFiles/botfunpay.dir/dashboardwindow.cpp.o"
+},
+{
+  "directory": "/home/undersirable/botfunpay/cmake-build-debug",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/undersirable/botfunpay/cmake-build-debug/botfunpay_autogen/include -I/home/undersirable/Загрузки/boost_1_90_0 -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtCore -isystem /home/undersirable/Qt/6.10.2/gcc_64/include -isystem /home/undersirable/Qt/6.10.2/gcc_64/mkspecs/linux-g++ -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtWidgets -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtGui -g -std=gnu++17 -fdiagnostics-color=always -fPIC -o CMakeFiles/botfunpay.dir/addlotdialog.cpp.o -c /home/undersirable/botfunpay/addlotdialog.cpp",
+  "file": "/home/undersirable/botfunpay/addlotdialog.cpp",
+  "output": "/home/undersirable/botfunpay/cmake-build-debug/CMakeFiles/botfunpay.dir/addlotdialog.cpp.o"
+},
+{
+  "directory": "/home/undersirable/botfunpay/cmake-build-debug",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/undersirable/botfunpay/cmake-build-debug/botfunpay_autogen/include -I/home/undersirable/Загрузки/boost_1_90_0 -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtCore -isystem /home/undersirable/Qt/6.10.2/gcc_64/include -isystem /home/undersirable/Qt/6.10.2/gcc_64/mkspecs/linux-g++ -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtWidgets -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtGui -g -std=gnu++17 -fdiagnostics-color=always -fPIC -o CMakeFiles/botfunpay.dir/funpayapi.cpp.o -c /home/undersirable/botfunpay/funpayapi.cpp",
+  "file": "/home/undersirable/botfunpay/funpayapi.cpp",
+  "output": "/home/undersirable/botfunpay/cmake-build-debug/CMakeFiles/botfunpay.dir/funpayapi.cpp.o"
+},
+{
+  "directory": "/home/undersirable/botfunpay/cmake-build-debug",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/undersirable/botfunpay/cmake-build-debug/botfunpay_autogen/include -I/home/undersirable/Загрузки/boost_1_90_0 -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtCore -isystem /home/undersirable/Qt/6.10.2/gcc_64/include -isystem /home/undersirable/Qt/6.10.2/gcc_64/mkspecs/linux-g++ -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtWidgets -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtGui -g -std=gnu++17 -fdiagnostics-color=always -fPIC -o CMakeFiles/botfunpay.dir/httpclient.cpp.o -c /home/undersirable/botfunpay/httpclient.cpp",
+  "file": "/home/undersirable/botfunpay/httpclient.cpp",
+  "output": "/home/undersirable/botfunpay/cmake-build-debug/CMakeFiles/botfunpay.dir/httpclient.cpp.o"
+},
+{
+  "directory": "/home/undersirable/botfunpay/cmake-build-debug",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/undersirable/botfunpay/cmake-build-debug/botfunpay_autogen/include -I/home/undersirable/Загрузки/boost_1_90_0 -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtCore -isystem /home/undersirable/Qt/6.10.2/gcc_64/include -isystem /home/undersirable/Qt/6.10.2/gcc_64/mkspecs/linux-g++ -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtWidgets -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtGui -g -std=gnu++17 -fdiagnostics-color=always -fPIC -o CMakeFiles/botfunpay.dir/cookieloader.cpp.o -c /home/undersirable/botfunpay/cookieloader.cpp",
+  "file": "/home/undersirable/botfunpay/cookieloader.cpp",
+  "output": "/home/undersirable/botfunpay/cmake-build-debug/CMakeFiles/botfunpay.dir/cookieloader.cpp.o"
+},
+{
+  "directory": "/home/undersirable/botfunpay/cmake-build-debug",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/undersirable/botfunpay/cmake-build-debug/botfunpay_autogen/include -I/home/undersirable/Загрузки/boost_1_90_0 -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtCore -isystem /home/undersirable/Qt/6.10.2/gcc_64/include -isystem /home/undersirable/Qt/6.10.2/gcc_64/mkspecs/linux-g++ -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtWidgets -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtGui -g -std=gnu++17 -fdiagnostics-color=always -fPIC -o CMakeFiles/botfunpay.dir/gamesparser.cpp.o -c /home/undersirable/botfunpay/gamesparser.cpp",
+  "file": "/home/undersirable/botfunpay/gamesparser.cpp",
+  "output": "/home/undersirable/botfunpay/cmake-build-debug/CMakeFiles/botfunpay.dir/gamesparser.cpp.o"
+},
+{
+  "directory": "/home/undersirable/botfunpay/cmake-build-debug",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/undersirable/botfunpay/cmake-build-debug/botfunpay_autogen/include -I/home/undersirable/Загрузки/boost_1_90_0 -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtCore -isystem /home/undersirable/Qt/6.10.2/gcc_64/include -isystem /home/undersirable/Qt/6.10.2/gcc_64/mkspecs/linux-g++ -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtWidgets -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtGui -g -std=gnu++17 -fdiagnostics-color=always -fPIC -o CMakeFiles/botfunpay.dir/gamesservice.cpp.o -c /home/undersirable/botfunpay/gamesservice.cpp",
+  "file": "/home/undersirable/botfunpay/gamesservice.cpp",
+  "output": "/home/undersirable/botfunpay/cmake-build-debug/CMakeFiles/botfunpay.dir/gamesservice.cpp.o"
+},
+{
+  "directory": "/home/undersirable/botfunpay/cmake-build-debug",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/undersirable/botfunpay/cmake-build-debug/botfunpay_autogen/include -I/home/undersirable/Загрузки/boost_1_90_0 -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtCore -isystem /home/undersirable/Qt/6.10.2/gcc_64/include -isystem /home/undersirable/Qt/6.10.2/gcc_64/mkspecs/linux-g++ -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtWidgets -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtGui -g -std=gnu++17 -fdiagnostics-color=always -fPIC -o CMakeFiles/botfunpay.dir/botworker.cpp.o -c /home/undersirable/botfunpay/botworker.cpp",
+  "file": "/home/undersirable/botfunpay/botworker.cpp",
+  "output": "/home/undersirable/botfunpay/cmake-build-debug/CMakeFiles/botfunpay.dir/botworker.cpp.o"
+},
+{
+  "directory": "/home/undersirable/botfunpay/cmake-build-debug",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/undersirable/botfunpay/cmake-build-debug/botfunpay_autogen/include -I/home/undersirable/Загрузки/boost_1_90_0 -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtCore -isystem /home/undersirable/Qt/6.10.2/gcc_64/include -isystem /home/undersirable/Qt/6.10.2/gcc_64/mkspecs/linux-g++ -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtWidgets -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtGui -g -std=gnu++17 -fdiagnostics-color=always -fPIC -o CMakeFiles/botfunpay.dir/botengine.cpp.o -c /home/undersirable/botfunpay/botengine.cpp",
+  "file": "/home/undersirable/botfunpay/botengine.cpp",
+  "output": "/home/undersirable/botfunpay/cmake-build-debug/CMakeFiles/botfunpay.dir/botengine.cpp.o"
+},
+{
+  "directory": "/home/undersirable/botfunpay/cmake-build-debug",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/undersirable/botfunpay/cmake-build-debug/botfunpay_autogen/include -I/home/undersirable/Загрузки/boost_1_90_0 -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtCore -isystem /home/undersirable/Qt/6.10.2/gcc_64/include -isystem /home/undersirable/Qt/6.10.2/gcc_64/mkspecs/linux-g++ -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtWidgets -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtGui -g -std=gnu++17 -fdiagnostics-color=always -fPIC -o CMakeFiles/botfunpay.dir/logger.cpp.o -c /home/undersirable/botfunpay/logger.cpp",
+  "file": "/home/undersirable/botfunpay/logger.cpp",
+  "output": "/home/undersirable/botfunpay/cmake-build-debug/CMakeFiles/botfunpay.dir/logger.cpp.o"
+},
+{
+  "directory": "/home/undersirable/botfunpay/cmake-build-debug",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/undersirable/botfunpay/cmake-build-debug/botfunpay_autogen/include -I/home/undersirable/Загрузки/boost_1_90_0 -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtCore -isystem /home/undersirable/Qt/6.10.2/gcc_64/include -isystem /home/undersirable/Qt/6.10.2/gcc_64/mkspecs/linux-g++ -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtWidgets -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtGui -g -std=gnu++17 -fdiagnostics-color=always -fPIC -o CMakeFiles/botfunpay.dir/settingsmanager.cpp.o -c /home/undersirable/botfunpay/settingsmanager.cpp",
+  "file": "/home/undersirable/botfunpay/settingsmanager.cpp",
+  "output": "/home/undersirable/botfunpay/cmake-build-debug/CMakeFiles/botfunpay.dir/settingsmanager.cpp.o"
+},
+{
+  "directory": "/home/undersirable/botfunpay/cmake-build-debug",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/undersirable/botfunpay/cmake-build-debug/botfunpay_autogen/include -I/home/undersirable/Загрузки/boost_1_90_0 -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtCore -isystem /home/undersirable/Qt/6.10.2/gcc_64/include -isystem /home/undersirable/Qt/6.10.2/gcc_64/mkspecs/linux-g++ -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtWidgets -isystem /home/undersirable/Qt/6.10.2/gcc_64/include/QtGui -g -std=gnu++17 -fdiagnostics-color=always -fPIC -o CMakeFiles/botfunpay.dir/botfunpay_autogen/EWIEGA46WW/qrc_resources.cpp.o -c /home/undersirable/botfunpay/cmake-build-debug/botfunpay_autogen/EWIEGA46WW/qrc_resources.cpp",
+  "file": "/home/undersirable/botfunpay/cmake-build-debug/botfunpay_autogen/EWIEGA46WW/qrc_resources.cpp",
+  "output": "/home/undersirable/botfunpay/cmake-build-debug/CMakeFiles/botfunpay.dir/botfunpay_autogen/EWIEGA46WW/qrc_resources.cpp.o"
+}
+]
